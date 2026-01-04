@@ -267,7 +267,7 @@
             
                 <span class="meta-info-item post-update-date">
                     <i class="icon fa-solid fa-file-pen"></i>&nbsp;
-                    <span class="datetime" data-updated="Sun Jan 04 2026 13:36:38 GMT+0000">2026-01-04 21:36:38</span>
+                    <span class="datetime" data-updated="Sun Jan 04 2026 13:38:10 GMT+0000">2026-01-04 21:38:10</span>
                 </span>
             
         
@@ -426,55 +426,73 @@
 <li><code>Run for Each Item</code>: 输入是单条数据，适合对每一行做同样的转换。</li>
 </ul>
 <p><strong>示例代码：过滤并格式化</strong></p>
-<pre><code class="javascript">// 假设这是 &quot;Run Once for All Items&quot; 模式
-const items = $input.all();
-const results = [];
-
-for (const item of items) &#123;
-  const price = item.json.btc_price;
-  
-  // 自定义复杂逻辑
-  if (price &gt; 50000 &amp;&amp; price &lt; 150000) &#123;
-    results.push(&#123;
-      json: &#123;
-        message: `当前价格正常: $&#123;price&#125;`,
-        timestamp: new Date().toISOString()
-      &#125;
-    &#125;);
-  &#125;
-&#125;
-
-return results;
-
----
-## 6. 调试与排错 (Debugging)
-
-
-
-1.  **Pin Data (固定数据)**：
-    * 在开发 HTTP Request 后面节点时，不要每次都真的去请求 API（浪费次数且慢）。
-    * 点击 HTTP Request 节点右上角的 **大头针图标** (Pin Data)。
-    * 这样后续的节点测试时，会直接使用上次缓存的数据。
-
-2.  **Executions (执行日志)**：
-    * 左侧边栏的 `Executions` 是你的黑匣子。
-    * 双击任意一条失败的记录，你可以看到数据流到哪个节点断掉了，以及具体的 Error Message。
-
----
-
-## 7. 常用节点速查表
-
-| 节点名称 | 用途 | 备注 |
-| :--- | :--- | :--- |
-| **Schedule** | 定时触发 | 类似 Crontab，用于定时任务 |
-| **Webhook** | 被动触发 | 用于接收外部推送（如 GitHub Push，支付回调） |
-| **HTTP Request** | 请求 API | 支持 GET, POST, Auth, Headers 等 |
-| **Edit Fields (Set)**| 变量赋值 | 最常用的节点，用于提取字段、重命名、赋值 |
-| **If** | 条件判断 | 自动循环处理数组，无需写 For 循环 |
-| **Switch** | 多重判断 | 类似于编程中的 switch-case，多分支路由 |
-| **Merge** | 数据合并 | 将两个分支的数据合二为一 (Append/Merge By Key) |
-| **Code** | 运行 JS | 万能节点，支持标准 JS 和 npm 模块（需配置） |
-</code></pre>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 假设这是 &quot;Run Once for All Items&quot; 模式</span></span><br><span class="line"><span class="keyword">const</span> items = $input.<span class="title function_">all</span>();</span><br><span class="line"><span class="keyword">const</span> results = [];</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> (<span class="keyword">const</span> item <span class="keyword">of</span> items) &#123;</span><br><span class="line">  <span class="keyword">const</span> price = item.<span class="property">json</span>.<span class="property">btc_price</span>;</span><br><span class="line">  </span><br><span class="line">  <span class="comment">// 自定义复杂逻辑</span></span><br><span class="line">  <span class="keyword">if</span> (price &gt; <span class="number">50000</span> &amp;&amp; price &lt; <span class="number">150000</span>) &#123;</span><br><span class="line">    results.<span class="title function_">push</span>(&#123;</span><br><span class="line">      <span class="attr">json</span>: &#123;</span><br><span class="line">        <span class="attr">message</span>: <span class="string">`当前价格正常: <span class="subst">$&#123;price&#125;</span>`</span>,</span><br><span class="line">        <span class="attr">timestamp</span>: <span class="keyword">new</span> <span class="title class_">Date</span>().<span class="title function_">toISOString</span>()</span><br><span class="line">      &#125;</span><br><span class="line">    &#125;);</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">return</span> results;</span><br></pre></td></tr></table></figure>
+<hr>
+<h2 id="6-调试与排错-Debugging"><a href="#6-调试与排错-Debugging" class="headerlink" title="6. 调试与排错 (Debugging)"></a>6. 调试与排错 (Debugging)</h2><ol>
+<li><p>**Pin Data (固定数据)**：</p>
+<ul>
+<li>在开发 HTTP Request 后面节点时，不要每次都真的去请求 API（浪费次数且慢）。</li>
+<li>点击 HTTP Request 节点右上角的 <strong>大头针图标</strong> (Pin Data)。</li>
+<li>这样后续的节点测试时，会直接使用上次缓存的数据。</li>
+</ul>
+</li>
+<li><p>**Executions (执行日志)**：</p>
+<ul>
+<li>左侧边栏的 <code>Executions</code> 是你的黑匣子。</li>
+<li>双击任意一条失败的记录，你可以看到数据流到哪个节点断掉了，以及具体的 Error Message。</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="7-常用节点速查表"><a href="#7-常用节点速查表" class="headerlink" title="7. 常用节点速查表"></a>7. 常用节点速查表</h2><table>
+<thead>
+<tr>
+<th align="left">节点名称</th>
+<th align="left">用途</th>
+<th align="left">备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>Schedule</strong></td>
+<td align="left">定时触发</td>
+<td align="left">类似 Crontab，用于定时任务</td>
+</tr>
+<tr>
+<td align="left"><strong>Webhook</strong></td>
+<td align="left">被动触发</td>
+<td align="left">用于接收外部推送（如 GitHub Push，支付回调）</td>
+</tr>
+<tr>
+<td align="left"><strong>HTTP Request</strong></td>
+<td align="left">请求 API</td>
+<td align="left">支持 GET, POST, Auth, Headers 等</td>
+</tr>
+<tr>
+<td align="left"><strong>Edit Fields (Set)</strong></td>
+<td align="left">变量赋值</td>
+<td align="left">最常用的节点，用于提取字段、重命名、赋值</td>
+</tr>
+<tr>
+<td align="left"><strong>If</strong></td>
+<td align="left">条件判断</td>
+<td align="left">自动循环处理数组，无需写 For 循环</td>
+</tr>
+<tr>
+<td align="left"><strong>Switch</strong></td>
+<td align="left">多重判断</td>
+<td align="left">类似于编程中的 switch-case，多分支路由</td>
+</tr>
+<tr>
+<td align="left"><strong>Merge</strong></td>
+<td align="left">数据合并</td>
+<td align="left">将两个分支的数据合二为一 (Append&#x2F;Merge By Key)</td>
+</tr>
+<tr>
+<td align="left"><strong>Code</strong></td>
+<td align="left">运行 JS</td>
+<td align="left">万能节点，支持标准 JS 和 npm 模块（需配置）</td>
+</tr>
+</tbody></table>
 
                     
                 </div>
