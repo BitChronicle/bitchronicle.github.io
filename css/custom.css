@@ -1,0 +1,30 @@
+/* 模拟 Keep 的卡片质感 */
+.post {
+    border: none !important;
+    background: #ffffff !important;
+    border-radius: 12px !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05) !important;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
+}
+
+.post:hover {
+    transform: translateY(-4px) !important;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08) !important;
+}
+/* 增加行高和字间距 */
+body {
+    line-height: 1.8 !important;
+    letter-spacing: 0.02em !important;
+}
+
+.post-title {
+    font-weight: 700 !important;
+    margin-bottom: 1rem !important;
+}
+/* 标签小药丸化 */
+.post-tags a, .tag-cloud-tags a {
+    border-radius: 20px !important;
+    padding: 0.2rem 0.8rem !important;
+    background: rgba(0, 0, 0, 0.04) !important;
+    border: none !important;
+}
