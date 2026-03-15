@@ -1,0 +1,224 @@
+# 再谈奥瑞转债——强赎意愿与成功率分析
+
+
+
+---
+
+## **1\. 核心观点与投资摘要**
+
+在2026年初的中国可转债市场中，奥锐转债（111021.SH）正在成为资本运作与产业景气度双重共振的典型案例。本报告通过对发行人奥锐特药业股份有限公司（以下简称“奥锐特”或“公司”）的历史资本动作、近期高频财务决策以及底层产业逻辑的详尽穿透分析，得出核心结论：**公司推动“奥锐转债”在2026年上半年实现强制赎回（即“强赎”）的意愿极强，且其通过“回购专用账户”承接转股压力的创新型资本运作模式，显著提升了强赎触发的成功率。**
+
+### **1.1 核心逻辑概览**
+
+**强赎意愿（Willingness）：极高。** 公司管理层在2025年4月股价低迷期坚决拒绝下修转股价，显示出对未来股价修复的极强信心及不愿低位稀释股权的战略定力。而在2026年1月21日，董事会审议通过的回购方案中，明确规定回购股份“全部用于转换公司可转债” 1。这一动作是极为罕见且明确的信号，表明公司不仅希望转债转股，更愿意动用真金白银（6,000万-1.2亿元）来平抑转股过程中的股本摊薄效应，维护股价稳定以确保持续满足强赎条件。
+
+**强赎能力（Ability）：显著增强。** 依托于全球GLP-1（胰高血糖素样肽-1）减肥药及糖尿病药物市场的爆发式增长，奥锐特作为多肽原料药及中间体的核心供应商，其基本面迎来了戴维斯双击 2。2025年三季报显示公司扣非净利润同比增长73% 3，且关键生产线已通过GMP认证，产能释放周期与转债转股期完美重叠。基本面的强劲表现为股价维持在强赎触发价（约32.42元）上方提供了坚实的估值支撑。
+
+**成功率判定（Probability）：\>85%。** 截至2026年1月22日，奥锐特收盘价为31.29元 4，距离测算的强赎触发价格32.42元仅一步之遥（幅度约3.6%）。考虑到公司已启动回购护盘，且市场对医药板块2026年的预期向好，预计在2026年一季度末之前触发“在任意连续30个交易日中至少有15个交易日收盘价不低于当期转股价格130%”条款的概率极高。
+
+---
+
+## **2\. 工具要素与条款状态深度解析**
+
+在深入分析公司的博弈心理之前，必须首先厘清“奥锐转债”当前的契约状态、价格机制及条款边界。这是所有博弈分析的数学基础。
+
+### **2.1 转债基础数据与生命周期**
+
+奥锐转债于2024年8月15日正式在上交所挂牌上市，发行总额为8.1212亿元，期限6年 5。截至本报告撰写时（2026年1月），该转债正处于存续期的第2年，理论上属于进入转股期后的关键博弈窗口。
+
+| 关键要素 | 数值/状态 | 备注/数据来源 |
+| :---- | :---- | :---- |
+| **债券代码** | 111021.SH | 5 |
+| **正股代码** | 605116.SH | 5 |
+| **发行规模** | 8.1212亿元 | 余额占比99.99%，未转股压力大 5 |
+| **到期日** | 2030年7月26日 | 剩余期限约4.5年 6 |
+| **转股期起始日** | 2025年2月5日 | 当前已完全进入转股期 7 |
+| **最新转股价格** | **24.94元/股** | 经2024年度权益分派调整后生效 8 |
+| **正股现价** | 31.29元 | 数据截至2026年1月22日 4 |
+| **转股价值** | 125.46元 | ![][image1] |
+
+### **2.2 关键条款触发阈值测算**
+
+对于投资者而言，最为核心的条款即为“有条件赎回条款”（强赎）。根据募集说明书约定，当正股价格在连续30个交易日中至少有15个交易日不低于当期转股价格的130%时，公司有权决定按照债券面值加当期应计利息的价格赎回全部或部分未转股的可转债 9。
+
+**强赎触发价格精准测算：**
+
+**![][image2]**  
+**![][image3]**  
+**当前状态评估：**
+
+截至2026年1月22日收盘价31.29元计算，正股价格距离强赎触发线（32.42元）仅差 **1.13元**，涨幅缺口仅为 **3.61%**。在A股市场的日常波动范围内，这一缺口几乎可以忽略不计，意味着奥锐转债实际上已经处于“准强赎”状态。只要正股价格在未来一个月内维持温和上涨或横盘震荡偏强，触发强赎条款将是大概率的数学必然。
+
+此外，需要注意的是，转股价格曾因权益分派进行过微调。2025年6月，公司实施了2024年度权益分派（每股派发现金红利0.29元），导致转股价由初始的25.23元调整至24.94元 8。尽管后续在2026年1月进行了极少量的限制性股票回购注销（1.2万股），但因注销比例过小，并未触发生效的转股价调整机制 8。因此，**24.94元**是我们进行所有后续推演的唯一基准。
+
+---
+
+## **3\. 发行人意愿的法医学分析：从被动防御到主动出击**
+
+在可转债的投资逻辑中，发行人的意愿往往比市场走势更为关键。通过复盘奥锐特过去一年的资本市场动作，我们可以清晰地描绘出一条从“战略定力”到“战术出击”的清晰轨迹。
+
+### **3.1 战略定力：拒绝下修的历史信号**
+
+2025年4月24日，奥锐特发布了一则《关于不向下修正“奥锐转债”转股价格的公告》 10。当时，受市场环境影响，公司股价在任意连续30个交易日中已有15个交易日收盘价低于当期转股价格的85%（即21.45元/股），已满足下修条件。
+
+**深度解读：**
+
+在可转债市场中，董事会是否提议下修转股价是判断其对后市看法的“试金石”。
+
+* **若选择下修：** 通常意味着管理层认为短期内股价难以自然上涨回到强赎线，或者急于解决债务问题，不惜通过稀释股权（降低转股价=增加转股数量）来促成转股。这往往是一种“弱势”或“躺平”的信号。  
+* **若拒绝下修：** 奥锐特董事会明确选择了拒绝。这释放了两个强烈信号：  
+  1. **信心（Confidence）：** 管理层坚信公司的基本面改善（特别是GLP-1业务放量）足以驱动股价在未来自然回升至强赎线（32.42元）以上，无需通过技术手段降低门槛。  
+  2. **惜售（Anti-dilution）：** 管理层不愿意在低位增发股票。按当时的21元股价下修，相比按现在的31元转股，将多发行约50%的股份，对现有股东权益摊薄巨大。
+
+这一历史决策证明了奥锐特管理层具备长期的市值管理规划，而非短视的债务消减冲动。
+
+### **3.2 战术出击：回购专用账户的“明牌”**
+
+如果说2025年的拒绝下修是“被动防御”，那么2026年1月21日发布的股份回购方案则是赤裸裸的“主动出击”。
+
+根据公告，公司拟使用自有资金6,000万元至1.2亿元以集中竞价交易方式回购公司股份，**回购用途明确为“用于转换公司可转债”** 1。
+
+**这一动作的战略含金量极高，体现在以下三个维度：**
+
+1. **消除转股阻力（De-risking）：**  
+   通常情况下，可转债大规模转股会导致总股本增加，对EPS（每股收益）产生稀释效应，从而引发正股持有者的抛售，导致“转股——股价跌——强赎失败”的负反馈循环。  
+   奥锐特通过回购股票来满足转股需求，本质上是用库存股（Treasury Shares）来兑付债券持有人的转股请求。**这意味着：转股过程将不会新增（或减少新增）流通股本。** 这极大地缓解了市场的扩容恐惧，为股价维持在高位扫清了最大的心理障碍。  
+2. **提供股价安全垫（Put Option）：** 回购上限价格设定为35.00元/股（后因权益分派调整为24.71元附近，需注意公告细节中价格调整的时间线逻辑，但核心在于公司愿意在高位买入）1。更重要的是，公司在股价逼近强赎线时宣布回购，实际上是向市场提供了一个隐形的托底承诺。当股价在31-32元震荡时，数千万的回购资金入场将成为最直接的多头力量，助推股价突破32.42元的临界点。  
+3. **明确的转股导向（Explicit Guidance）：**  
+   只有当公司极度确信转债即将进入转股期且会有大量转股发生时，才会专门设立“用于转换可转债”的回购计划。这是公司管理层对未来半年强赎成功的“隐性对赌”。
+
+### **3.3 资金面的配合：北向资金的先知先觉**
+
+除了公司自身的动作，敏锐的聪明资金（Smart Money）早已开始布局。根据交易数据，北向资金（香港中央结算有限公司）在2025年四季度大幅增持奥锐特。 截至2025年12月31日，北向资金持有270.06万股，较上季度末激增135.92% 4。外资的流入通常基于对基本面中长期逻辑的认可，这种机构资金的沉淀进一步锁定了筹码，降低了股价在强赎关键期的波动率。
+
+---
+
+## **4\. 基本面支撑：强赎能力的底层来源**
+
+意愿只是主观能动性，能力才是客观基础。奥锐特之所以敢于在2026年推动强赎，是因为其正处于一轮由产品周期驱动的超级景气周期之中。
+
+### **4.1 核心驱动力：GLP-1与多肽产业链爆发**
+
+2024-2026年是全球医药行业“减肥药”概念的爆发期，以司美格鲁肽（Semaglutide）为代表的GLP-1受体激动剂需求呈现指数级增长 2。
+
+* **行业贝塔（Beta）：** 预计到2030年，全球GLP-1市场规模将突破1000亿美元。这种巨大的增量市场导致上游原料药（API）和中间体产能极度紧缺。  
+* **公司阿尔法（Alpha）：** 奥锐特早于几年前便布局了多肽与寡核苷酸生产线。此次发行的8.12亿元可转债，其募投项目正是为了扩充这些高附加值产品的产能。  
+* **催化剂（Catalyst）：** 2026年1月，相关媒体报道确认公司子公司获得相关药品注册证书，且两条原料药生产线通过GMP认证 3。这意味着产能建设周期结束，正式进入商业化放量周期。
+
+### **4.2 财务数据验证**
+
+从财务报表中可以清晰看到这种转型的成效：
+
+* **营收与利润剪刀差：** 2025年三季报显示，公司净利润同比增长24.58%，而**扣非净利润增速高达73%** 3。这种剪刀差说明公司的主营业务（剔除投资收益等非经常性损益）盈利能力正在急剧攀升，毛利率结构随着高附加值多肽产品的出货而显著优化。  
+* **现金流健康：** 2025年三季度经营活动产生的现金流量净额为3.51亿元 11。充沛的现金流不仅验证了利润的含金量（非纸面富贵），也为公司实施“亿元级”回购提供了坚实的资金底气，无需担忧因回购而导致流动性紧张。
+
+### **4.3 估值体系重塑**
+
+随着业务从传统的甾体激素向多肽及核酸药物转型，资本市场对奥锐特的估值体系正在发生重塑。 券商研报指出，给予公司2026年25倍PE，目标价上看至更高区间 12。当前31.29元的价格对应动态市盈率约27倍 4，处于合理区间。考虑到PEG（市盈率相对盈利增长比率）远小于1（扣非增速73%），股价仍具备极强的上攻弹性，这为强赎触发提供了最为核心的安全边际。
+
+---
+
+## **5\. 成功率分析与情景演绎**
+
+基于上述定性与定量分析，我们构建以下三种情景来推演强赎的成功率。
+
+### **5.1 基础情景（Base Case）：顺势而为，一季度触发**
+
+* **概率：60%**  
+* **逻辑：** 借势2025年年报预告（通常在1-2月发布）及一季报预喜，叠加回购资金的入场，股价温和推升至33-35元区间。  
+* **演化：** 股价在2026年2月中下旬至3月中旬期间，保持在32.42元上方。公司在满足条件后，迅速发布《关于提前赎回“奥锐转债”的公告》。  
+* **结果：** 转债价格跟随正股上涨至130元以上，绝大多数投资者选择转股，转债余额归零。
+
+### **5.2 乐观情景（Bull Case）：抢筹爆发，极速触发**
+
+* **概率：25%**  
+* **逻辑：** 行业出现重大利好（如海外大客户签订长单），或者机构资金抢筹GLP-1核心资产，导致奥锐特股价出现连续大涨（如1月8日的涨停重演）3。  
+* **演化：** 股价迅速突破35元甚至40元，强赎天数计数器（15/30）在最短时间内填满。  
+* **结果：** 强赎毫无悬念，转债投资者获得丰厚的股性收益（Gamma收益）。
+
+### **5.3 悲观情景（Bear Case）：市场崩盘，功亏一篑**
+
+* **概率：15%**  
+* **逻辑：** A股市场遭遇系统性风险（如地缘政治危机、流动性枯竭），大盘指数暴跌，拖累奥锐特股价跌破28元。  
+* **演化：** 尽管公司有回购支撑，但独木难支，股价无法维持在32.42元上方。强赎进度被打断。  
+* **结果：** 公司可能在二季度继续尝试，或者延长回购期限，等待市场企稳。但考虑到公司基本面的强劲，即便一季度失败，全年来看成功率依然很高。
+
+### **5.4 综合判定**
+
+加权计算上述情景，**奥锐转债在2026年上半年实现强赎的综合成功率超过85%。** 实际上，当前仅3.6%的价差在波动率较高的医药板块中几乎不构成阻力，唯一的变数仅在于时间的早晚。
+
+---
+
+## **6\. 结论与操作建议**
+
+### **6.1 研究结论**
+
+1. **强赎是既定战略：** 奥锐特通过“拒绝下修”+“定向回购”的组合拳，清晰地向市场明示了其通过强赎解决可转债债务、优化资本结构的战略意图。  
+2. **基本面是核心保障：** GLP-1产业链的高景气度是股价能够站稳强赎价（32.42元）的根本原因，脱离了基本面的强赎往往是空中楼阁，但奥锐特具备坚实的业绩支撑。  
+3. **时间窗口临近：** 随着2026年2月5日转股期的全面开启，以及股价逼近临界点，强赎倒计时已经启动。
+
+### **6.2 风险提示**
+
+尽管前景乐观，但投资者仍需警惕以下风险点：
+
+* **政策监管风险：** 2026年监管层对医药行业的集采政策或反腐力度若超预期加强，可能引发板块估值中枢下移。  
+* **回购执行力度不及预期：** 需密切跟踪交易所披露的回购进展，若公司“忽悠式回购”（只喊口号不买入），将严重打击市场信心。  
+* **转股抛压：** 尽管有回购对冲，但8亿元规模的转债若在短时间内集中转股，仍可能造成短期的交易拥堵和价格波动。
+
+### **6.3 投资建议**
+
+* **对于持债人：** **建议坚定持有（Hold）。** 目前转债价格大概率会跟随正股上涨（Delta值接近1）。在公司发布强赎公告前，不要轻易卖出，以免错失最后的加速上涨阶段（抢权行情）。同时，密切关注正股走势，一旦公司发布强赎公告，需在最后交易日前完成转股或卖出，避免被以面值（加微薄利息）强制赎回而遭受巨额损失。  
+* **对于正股投资者：** **关注套利与波段机会。** 在强赎预期明朗化阶段，正股往往表现强势。但需警惕强赎落地后的短期回调风险。考虑到公司长期的多肽业务逻辑，可视为核心配置资产，利用回购提供的安全垫进行中长期布局。
+
+---
+
+## **附录：关键数据表**
+
+**表1：奥锐特近况资本动作时间轴梳理**
+
+| 时间节点 | 事件 | 信号解读 | 来源 |
+| :---- | :---- | :---- | :---- |
+| **2024-08-15** | 奥锐转债上市 | 融资扩产，布局多肽 | 5 |
+| **2025-04-24** | 拒绝下修转股价 | 展现信心，拒绝低位摊薄 | 10 |
+| **2025-06-20** | 权益分派调价至24.94元 | 确立当前强赎基准线 | 8 |
+| **2026-01-08** | 正股涨停 | 基本面利好驱动，资金抢筹 | 3 |
+| **2026-01-21** | **发布回购方案（用于转股）** | **最强意愿信号，护盘强赎** | 1 |
+| **2026-01-22** | 股价收于31.29元 | 逼近32.42元强赎线 | 4 |
+
+**表2：强赎博弈关键数值对照**
+
+| 项目 | 数值 | 备注 |
+| :---- | :---- | :---- |
+| 债券余额 | 8.12亿元 | 绝大部分未转股，强赎必要性大 |
+| 当前转股价 | 24.94元 | 强赎计算基数 |
+| 强赎触发价 (130%) | 32.42元 | 目标红线 |
+| 下修触发价 (85%) | 21.20元 | 防守底线（已失效，转为进攻） |
+| 回购价格上限 | \~24.71元/35.00元 | 依不同公告阶段调整，主要看意愿 |
+| 剩余年限 | 4.5年 | 时间充裕，但公司选择尽早解决 |
+
+### **引用的著作**
+
+1. 奥锐特药业股份有限公司关于股份回购实施结果暨股份变动的公告, 访问时间为 一月 25, 2026， [https://stockmc.xueqiu.com/202601/605116\_20260122\_QS35.pdf](https://stockmc.xueqiu.com/202601/605116_20260122_QS35.pdf)  
+2. 全球市值第一药企礼来创新高！产业渗透率提升空间巨大，这些A股公司增长潜力足 \- 证券时报, 访问时间为 一月 25, 2026， [https://www.stcn.com/article/detail/1212121.html?u\_atoken=64e4ecf276cb102db21f8b4151c51dc0\&u\_asig=ffbfd](https://www.stcn.com/article/detail/1212121.html?u_atoken=64e4ecf276cb102db21f8b4151c51dc0&u_asig=ffbfd)  
+3. 奥锐特2026年1月8日涨停分析：业绩增长+产品获批+GMP认证 \- 新浪财经, 访问时间为 一月 25, 2026， [https://finance.sina.com.cn/stock/aiassist/ydfx/2026-01-08/doc-inhfqcax6828992.shtml?froms=ggmp](https://finance.sina.com.cn/stock/aiassist/ydfx/2026-01-08/doc-inhfqcax6828992.shtml?froms=ggmp)  
+4. 奥锐特（sh605116）行情走势 \- 证券时报, 访问时间为 一月 25, 2026， [https://www.stcn.com/quotes/index/sh605116.html](https://www.stcn.com/quotes/index/sh605116.html)  
+5. 奥锐特药业股份有限公司关于可转债转股结果暨股份变动公告, 访问时间为 一月 25, 2026， [https://gu.sina.cn/bd/hq/notice.php?annid=22167571\&source=bdquote](https://gu.sina.cn/bd/hq/notice.php?annid=22167571&source=bdquote)  
+6. 奥锐转债111021 \- 同花顺F10, 访问时间为 一月 25, 2026， [http://basic.10jqka.com.cn/111021/](http://basic.10jqka.com.cn/111021/)  
+7. 奥锐转债”自2月5日起开始转股 \- 东方财富, 访问时间为 一月 25, 2026， [https://wap.eastmoney.com/a/202501223304939728.html](https://wap.eastmoney.com/a/202501223304939728.html)  
+8. 奥锐特药业股份有限公司关于部分限制性股票回购注销不调整“奥锐转债”转股价格的公告 \- QQ.COM, 访问时间为 一月 25, 2026， [https://file.finance.qq.com/finance/hs/pdf/2025/12/31/1224909287.PDF](https://file.finance.qq.com/finance/hs/pdf/2025/12/31/1224909287.PDF)  
+9. 奥锐特药业股份有限公司向不特定对象发行可转换公司债券上市公告书保荐机构（主承销商）, 访问时间为 一月 25, 2026， [http://static.cninfo.com.cn/finalpage/2024-08-13/1220848744.PDF](http://static.cninfo.com.cn/finalpage/2024-08-13/1220848744.PDF)  
+10. 公司公告\_奥锐特：关于不向下修正“奥锐转债”转股价格的公告新浪财经, 访问时间为 一月 25, 2026， [http://money.finance.sina.com.cn/corp/view/vCB\_AllBulletinDetail.php?stockid=605116\&id=10945013](http://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=605116&id=10945013)  
+11. 奥锐特第三季度归母净利润为1.19亿元，同比上升24.6% \- 新浪财经, 访问时间为 一月 25, 2026， [https://finance.sina.com.cn/stock/zqgd/2025-10-30/doc-infvsute9138554.shtml](https://finance.sina.com.cn/stock/zqgd/2025-10-30/doc-infvsute9138554.shtml)  
+12. 东吴证券晨会纪要2025-04-22, 访问时间为 一月 25, 2026， [https://pdf.dfcfw.com/pdf/H3\_AP202504221660395862\_1.pdf?1745329769000.pdf](https://pdf.dfcfw.com/pdf/H3_AP202504221660395862_1.pdf?1745329769000.pdf)
+
+[image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAAAUCAYAAABiZ7R2AAAEA0lEQVR4Xu2ZS6hNURjHP6HI+xERJUyUPPJKUR4pBiiPTAyUhBhRxOxmxEAiJTGgZOIx8H6Ucw0QhQGRMjCQJJRQyOP73W8ve51l73P3Pvdxzj32r/7ds9daZ5+91vrvb31rXZGCgoKCgoKCgoKCgoI20lM1NCxsR7pLx96/JvRW7VM9Uv2OFNJNtUP1WbVM7DvHVO9U0712A1Q3VWOi6/GqF1F5Z3JEdU41QTVK9V2sX9vF+pIE/fqpehVWJLBG9UPVJDYW+1UfVDP9RgFTVR9VX8KKrs5AMQMtV92VZANNE+v4XoknYIjqoaoUXcNOsYH1mR+Vdya3pNy0a8X69U012yt3YLJnYm2yGIixuCpmHnBjcU+SX5a+quti9284AznoZEmSDXRQrHxJUH5CYsMQmp+qXsbVLYxQPVANCsorwYTeUD1XLQrqWqOH2LMyYfQJ3LNRTl9CDqvOik1uawZy9ycC+zAWv1SLg3Ig8l1QvZH/1EAYgI4TiXx2S9x+jpiZSn9rjX6qr6oZQXkltkm8nLIk5qGXxJEE84Lft6T7XVItlGwGwozcJ4yqGCjNoM1ikY97ZzEQJtwg6cstUW6PamRYUUsqGYhOJxmIQaQ933WfS34DsbqkAa8EyeY81WpV//Kqqhgr9vbzHFu9ciaI/IW/bpluq4FKQfkmseQcM2c1EAwWMzu5pw/moSzNXDWjngzU3rhnuy+Wrzjmqi5Hn7MayC1hfqQh6hHFKPe/zyaiFH3OayBwJnJmwTws7XVnHmhkA7FbJDdjV+bASORJs6LrrAYCknEMg3FgotgOi366HJCoc0psxwbVGAgwERGHHBLz7Cqvrh9qZSDeplU51aflm9ngrQ3Nw2+SQzAZ7m3OYyAmlHxvvdhye0h1Ucr7z87vuJiRoFoDQbPY7/G8/F5dUslATEAlAwE7tEoGCndwHQ0Td1R1xSsbp9oi8XOnKamvreFyoI2qpdHnSqJNFhoiArn1PTSBGzTgDX8vydt4yv0I0NEQVRh0ns+PVivk3+23w016lgjEJK6UOBowuexUWcZYzpJwES5PBGqYHIidi3u7HC5xfBtdc6jG4Rpm8cE45yXOF7JA9GCy10l1u7DtqjNiuy8MjDhbOinpS2magaaI5TL+ASHtPqkmR9ck4+RFByR9cvMaqMvswngQBniS6onY4LhBd5M+LKq7LfFAukEjl3Bw6Me/A1zn+Es9bfNAbuFC/emgLgs8Q7hkOCUtHfR1s1j9a9VwiXMXIhbl/gEhB4Z3JN7RPRab7KRTaOD+/C55DGdi/tgmwX2uSfq/XohCdWWirDCoC8Qi0eigzocEkvMVBi1PwuvwT6LDZbMeYOkiojRJF53IgoKa8wcZwCmpj34r0wAAAABJRU5ErkJggg==>
+
+[image2]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAmwAAAAsCAYAAADYUuRgAAAL5UlEQVR4Xu2de6wv1xTHl6CepdpGvcq5DUWrWs9qg1RD6lEiirqa6EEfQuPVIG36jyCId2+jQunVxrupiFJK+BWpV+OVNm1uiZLmCkJDECQe+3P3Xmb91m9mfr9znd5zzy/fT7Lym71nZs9+zLnrO2vvmWsmhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIfZ+blfs9jlzN/husafkzMSdi70wZwYOyBmBu4btBxTbWuwOxR5U7HFh3xC0k3NiW19W7C4hvdHcvdiHit0x7xjh6cWOz5mFjxc7NGcmGIu+sb9XsQtzZoPj11K/IR5ldRydg6zWeR5HFDs45R1X7MMpTwghhFgKcJiImPsW+5FVh+d2dbFt3aG7jtsnpAGhFLnFOgf8hLgjsKXY13Nm4A9W69XHzcXe0bYfY1WoAHVbtSq+xjiw2K+tOnzne8WeFNIbDYJtUuyokEe9x7in1XOy8Px3sfenvAjieYfNjiMcUmynzZYJ+X75QbGHWxXPjIUTxVgfZxZ7Z0i/qNh/rP+aEcYe4R2vdX6xW1PeZgdhfO+cGUA03y1nCiGE2PwguGJk5CdWnS/2q5APb7IqAhwXEpyPgPA0eJmUQVlD4Ii/UuwjxW4s9sPp3bvgun1w7qesigJ4fbF9u927OMmqcBgCp464cSjzs8Xea/2iZU9xQ7HL23bsV0Cc/LXYYSGvD8bk5SGNeI3ihX7JQuhI6yKTiN94b5xb7Ett+7k2Lb7y/YIIpp7UPY7fWLSM+vw+5f3Zqnh+rY0LL66FRf5R7NPWiUj6bOz66w19O1Rn/xvrgz57hFXxHCHSfIHVMrlHEcUeCSXvkcWusnq+EEKIJScLthhhu9b6BVv+jWTBtl/YBhwMogqH81TrHFCcknOHT+TABQRiirput1q3i606+1hft0usOuuzbNqBEr35aUivFLs+pKnXvIjQbQX1fIt1omcS9uGso8h0OG5RZ52FBGmmlxHA9HPcj1BgPHZYF8HMDAk2plGfHfLHBNM1xV7Rtrn+Oda1k1/EYq73GVbH+PPNvm31vFdZFTCnt+NWWn4+f72h/n+0KjSJDObxILrJPe8gKj16zL1NWx7W0o+3GiH0BxIeLlyUcl+6oAfO/UxICyGEWELi9FoUbL9oeURdiOYQ5Xh3y4Ms1PyXKUoXSzikT4Q0ZXrEC+f592KfC8dcWezoYs8K5yAU+f1NsY/tOrMShQDTdVEwLAKRva+FNNtvDGnq97tiTwt5exJEKUIlCjac+LwpryhK9rfZKBp8o9iTU94Wq5E9RBW/GQTb/XNmIwt8RAvignGJEU7KdjGe64WoPrVtI5ajmAb6g/PvEfJcwD/HOjHz4GIXWRU6REpdCPWJ3PWGsWLdHfdmn2Dj/iffRRh9hhCDY6z+vUTYRz7Qdm8j/T1p24BQ/GhICyGEWEJi1INoFM4gToXhJDxKFp1sFmpRWHzH6nQU5+HoERksZncxgfN9hlWBSPleB4+m4fDc2XnepOX3ca7V6EqGdvRFVXDeTOvhMDnmbKvHMeXkggAhS96J7bjTWv5tyZ2KvdqmI4RD0UNe6PhXPW2KOJ6TYs9r2/Qd4hs8AhZhiu0sq31JGQ8t9kSr10IMuHD2ayM8XAQNRdi+EPKcPG0NJxc7z2p9EXgITSJPiHfGwKfdySfCyH3q6w79vvukVdEZ71GEEX2EAFwE+oi1eBnq8C0bnsbMDAk2opVRKCNSPWo5sXpOhHJY38nfD8f5WCJQt7VtxmDR9gkhhNikRJEVIbrBFAvOmakmj4DhqH3tVBZqsSycCI4mOvIsEOAmq+X/0mr5iAJYq2AjWuZlRKNsBIhHNBzWu3ndEEgPafkIFUQBcF0ifTBvkf96ktcuDUH9+sRFFmzeZ/y64MiCjf7hhQT6izGgLxETrCmkPoiovvFz+gQbQveDNjsmlBmnmtmmzrRnYvVlEeB6W62KJconOoWYJh3Hk+Oo6wusTmmz32H8EGwxcjoPzolRQcpDyN4n5M1jSLBFKJdj/OGI/usTbLTJ14jyN8XfFg9E/oLQOTZ7fwshhFgyeGL/p3XOlG0iXxPrHH2MsOFU3Qlloea/lEnECufKuTjvIdYrwsYUHlNRRGlidJCpuQwL8TkmiwyIYod2jDlch0jd8xcwjwitFy5wMrsj2CKUG8sgYoUgjsQ+Bu9Lv498ShS4nxzWDW4JaXh0+83t4XwvY1/rj6DCFcVeavXYA6yOGSKQt30PbccgthCkvNji4nwM1lPusDp9i0hyEb8o8wQb9wMPEv4SBwwJNvKHInv0CVFIoK2snZv8b68QQoilgad1nKhDxAanN7HFBRv7iJR5GoiGsI7o/xFsTAXi/In48Mu0YJ9gow1EQIB1die1bYQGznaILNiIUlwW0lE07o1kgeOsp2AjgoO4QEi4GGN69FKbXkuX+zKWz5pG+taFH2X2kdvDdCxr4CDeW5l3FXusddfjXuC+ymvkaP/PrE795n19HGt1feXurH2bJ9icndZFcdcq2OhTIof0J+v2bmnb3P/zriuEEGKT444aweVra6Jge7F10y847JcUO8Xq+h6cxT5WP/Lqzv0qqwup3dEzPbVqHThW1lVlwdb3lmgfiEsiKREc1slWX1IYI4uMHMXZSMFGRGdI2DhZ4DhxajiK3DHBxrWYUtxuNRL1zZbXx1dtdh9l3RzSsXweCBh7hBJvSQ6R20OEk7dMYUiwEd0ErhXbk9OAoEGELQKCjgeOI6xbN7YWhgQbL7D4OkKgzfQ3Eb2J9Qs28nM5K8W+H9JMM09CmuidEEKIJQWn4P/Q3y/ku2BjEXpce+TwKYjXFHuf1eMQUc4Fbf8QrIljfU4WbBHyEAhH5R1W1++wCD3CdB2Oj31jZMFGNOfnIb2oYMPhcr15ts1PWCeywHG8L2Fiiwk2BO7fir3HZqdEMwjyDILjhpCO5buo3mHj37bL7XmbdQ8HQ4Ltme03C7SchtzmMWj/hW0bMUT/rIUhwUZefFGEvzcXbAjELNhYa3l+ygPWl/onUID7eBLSY+MnhBBik8MUVFxs7bhgg8Nt+o00hNTZYZsIipfBNA3HEq0gAnd0y3c43qN4Q4IN8cX3yI4r9gGbXpOG82cqLEIEg8gan5/gLdUs5iJZsH3Rpq+/qGDbKKgrYiIzJNgYF4+MjYkXzs8OnzH8bbEfp3yHfo5T67H8Vav/WwWCcGzxfxRsjON13a5BweZkgZbTMNZmh+nPL9vsGj3WwDHV6v03D8QU4is/4PzF6sONQwT09LZNG4lIr7Q0v0S68/QtLxtk4ctauPgNQaLeQgghlgimME+0+jmJi60TKPwiaJhywpHylijr1BAITC1tacchwqJD4b/N4Vwcboy4rFqNLMT1QJTh17us/XItog47rTo8RMKpVheKH2RdmThQ/neEiC80d2HItOqfrIoMXjTIZMF2pU3XbyME2zE2PaU8Ztfa7EsTEMUWU7wu2Bgn2uzt7hPn0CfYYMXqx20vT/mAYGDsER+seWP8iFgybc4bjStWBR1vc761pTNRsCFc4oPB7gg23niN/RVfhBhiq9V1kH3wwMBDyBgeWcvm9xF/a4jXN1v9L7i4P6MI5B4myntG+81rMLk/44sKDp/5uLVtU8eDwz4hhBBLBB+NPb5t8wR/rA1/XgIRRwTiTJsWOKy7eqXVtVB9cI6LBCIERPQinL895c3jBKtTZ2MLwxENqzYbNcF5IyBY9H1e2gcIiD0t2NYCwoLPZmRw9oAQeLvNtpvxWUl5EaaxX5czA29IaURGFB1cj3Va29p2BqHuX/ePIBInNv1xZieL6wzXW0lpjwo71OeBKW+zwb3c16cObd6b71khhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCCCGEWJj/AlZQTs0uxF52AAAAAElFTkSuQmCC>
+
+[image3]: <data:image/png;base64,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>
+
+---
+
+> 作者: Mavelsate  
+> URL: https://blog.yeliya.site/posts/%E5%86%8D%E8%B0%88%E5%A5%A5%E7%91%9E%E8%BD%AC%E5%80%BA%E5%BC%BA%E8%B5%8E%E6%84%8F%E6%84%BF%E4%B8%8E%E6%88%90%E5%8A%9F%E7%8E%87%E5%88%86%E6%9E%90/  
+
